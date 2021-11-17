@@ -12,8 +12,7 @@ A Small Program in Python made using Tkinter and using qrickit API to quickly ge
 2. Enter Data to be encoded in QR Code in a specific format (click '?' to find more).
 3. Enter Text for the QR Code.
 4. Select colors (backgroung, foreground) for the QR Code and the text.
-
-5.Generate the QR Code in the Right Panel or Download in a Specific Format (jpeg, png, svg).
+5. Generate the QR Code in the Right Panel or Download in a Specific Format (jpeg, png, svg).
 
 # Screenshots
 
