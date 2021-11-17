@@ -34,7 +34,7 @@ def about():
     r4=Toplevel(root)
     r4.title("About this")
     r4.resizable(False,False)
-    r4.iconbitmap("icon.ico")
+    r4.iconbitmap("logo.ico")
     mf4=ttk.Frame(r4,padding='3 3 12 12')
     mf4.pack(fill="both",expand="yes")
     mf4.rowconfigure(0,weight=1)
@@ -42,7 +42,7 @@ def about():
     l=ttk.Label(mf4,background="blue")
     l.pack(fill="both",expand="yes")
     ttk.Label(l,text="Created By: Hrithik Raj",foreground="yellow",background="blue",font=("Arial Black",16)).grid(row=2,column=0,columnspan=2)
-    img=ImageTk.PhotoImage(Image.open("icon.ico"))
+    img=ImageTk.PhotoImage(Image.open("logo.ico"))
     imglbl=ttk.Label(l,background="#004080",image=img)
     imglbl.photo=img
     imglbl.grid(row=4,column=0,rowspan=3)
