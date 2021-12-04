@@ -1,4 +1,4 @@
-# QR-Code-Generator
+# QREdge
 
 ![logo](https://user-images.githubusercontent.com/33039708/142150723-104fcc80-b073-4bf4-9ae0-40096ce88a1c.JPG)
 
